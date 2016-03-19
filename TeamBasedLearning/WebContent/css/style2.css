@@ -1,0 +1,220 @@
+.btn-flipped-warning{
+    color:#ec971f;
+    background-color:White ;
+    font-weight:bold;
+    padding: 10px; 
+}
+
+.btn-flipped-danger{
+   	border-color:#ec971f;
+   	color:#ec971f;
+    background-color:White ;
+    font-weight:bold;
+    padding: 10px; 
+}
+     
+.btn-flipped-success{
+    border-color:#ec971f;
+    color:#ec971f;
+    background-color:White ;
+    font-weight:bold;
+    padding: 10px; 
+}
+
+.btn-flipped-danger:hover{
+    color:white;
+    border-color:#ec971f;
+    background-color:#ec971f;
+}
+
+.btn-flipped-success:hover{
+    color:white;
+    border-color:#ec971f;
+    background-color:#ec971f;
+}
+   
+#headersmall {
+   /*background-color:#47A3FF;*/
+    background: rgb(82,177,82); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(82,177,82,1) 0%, rgba(82,177,82,1) 0%, rgba(180,221,180,1) 0%, rgba(0,138,0,1) 0%, rgba(82,177,82,1) 0%, rgba(0,138,0,1) 0%, rgba(82,177,82,1) 0%, rgba(82,177,82,1) 0%, rgba(0,138,0,1) 0%, rgba(82,177,82,1) 0%, rgba(82,177,82,1) 0%, rgba(131,199,131,1) 1%, rgba(0,138,0,1) 1%, rgba(0,138,0,1) 1%, rgba(0,138,0,1) 1%, rgba(0,87,0,1) 7%, rgba(0,36,0,1) 71%, rgba(0,36,0,1) 71%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(180,221,180,1)), color-stop(0%,rgba(0,138,0,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(0,138,0,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(0,138,0,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(1%,rgba(131,199,131,1)), color-stop(1%,rgba(0,138,0,1)), color-stop(1%,rgba(0,138,0,1)), color-stop(1%,rgba(0,138,0,1)), color-stop(7%,rgba(0,87,0,1)), color-stop(71%,rgba(0,36,0,1)), color-stop(71%,rgba(0,36,0,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(180,221,180,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(131,199,131,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,87,0,1) 7%,rgba(0,36,0,1) 71%,rgba(0,36,0,1) 71%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(180,221,180,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(131,199,131,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,87,0,1) 7%,rgba(0,36,0,1) 71%,rgba(0,36,0,1) 71%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(180,221,180,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(131,199,131,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,87,0,1) 7%,rgba(0,36,0,1) 71%,rgba(0,36,0,1) 71%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(180,221,180,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(131,199,131,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,87,0,1) 7%,rgba(0,36,0,1) 71%,rgba(0,36,0,1) 71%); /* W3C */
+
+    color:white;
+    text-align:center;
+    padding:12px;
+}
+
+.squareBox{
+    margin: 5px !important;
+}
+
+.square{
+    margin: 5px !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+.errorMessage {
+    font-weight: bold;
+    margin-left: 20px;
+    color: red;
+}
+
+.surveybody {
+    background: #f2f2f2 !important;
+    text-align:center !important;
+}
+
+#Content {
+    width:500px;
+    margin:20px auto;
+    text-align:left;
+    padding:15px;
+    border:1px dashed #333;
+    background-color:#eee;
+    }
+
+.surveyol {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+   
+}
+.surveyli {
+    padding: 10px;
+}
+
+.wrapper {
+    margin-top: 120px;
+    margin-bottom: 200px;
+}
+
+.form-signin {
+    max-width: 420px;
+    padding: 15px 35px 45px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+    margin-bottom: 30px;
+}
+.form-signin .checkbox { 
+    font-weight: normal;
+}
+.form-signin .form-control {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+.form-signin input[type="text"] {
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0.0pt;
+    border-bottom-right-radius: 0.0pt;
+}
+.form-signin input[type="password"] {
+    margin-bottom: 20px;
+    border-top-left-radius: 0.0pt;
+    border-top-right-radius: 0.0pt;
+}
+
+/*!
+ * Header and Footer
+ * Designed and built with all the love in the world.
+ */
+
+#header {
+   /*background-color:#47A3FF;*/
+    background: rgb(82,177,82); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(82,177,82,1) 0%, rgba(82,177,82,1) 0%, rgba(180,221,180,1) 0%, rgba(0,138,0,1) 0%, rgba(82,177,82,1) 0%, rgba(0,138,0,1) 0%, rgba(82,177,82,1) 0%, rgba(82,177,82,1) 0%, rgba(0,138,0,1) 0%, rgba(82,177,82,1) 0%, rgba(82,177,82,1) 0%, rgba(131,199,131,1) 1%, rgba(0,138,0,1) 1%, rgba(0,138,0,1) 1%, rgba(0,138,0,1) 1%, rgba(0,87,0,1) 7%, rgba(0,36,0,1) 71%, rgba(0,36,0,1) 71%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(180,221,180,1)), color-stop(0%,rgba(0,138,0,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(0,138,0,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(0,138,0,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(1%,rgba(131,199,131,1)), color-stop(1%,rgba(0,138,0,1)), color-stop(1%,rgba(0,138,0,1)), color-stop(1%,rgba(0,138,0,1)), color-stop(7%,rgba(0,87,0,1)), color-stop(71%,rgba(0,36,0,1)), color-stop(71%,rgba(0,36,0,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(180,221,180,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(131,199,131,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,87,0,1) 7%,rgba(0,36,0,1) 71%,rgba(0,36,0,1) 71%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(180,221,180,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(131,199,131,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,87,0,1) 7%,rgba(0,36,0,1) 71%,rgba(0,36,0,1) 71%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(180,221,180,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(131,199,131,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,87,0,1) 7%,rgba(0,36,0,1) 71%,rgba(0,36,0,1) 71%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(180,221,180,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(131,199,131,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,87,0,1) 7%,rgba(0,36,0,1) 71%,rgba(0,36,0,1) 71%); /* W3C */
+
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    /*background-color:#47A3FF;*/
+    
+    background: rgb(82,177,82); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(82,177,82,1) 0%, rgba(82,177,82,1) 0%, rgba(180,221,180,1) 0%, rgba(0,138,0,1) 0%, rgba(82,177,82,1) 0%, rgba(0,138,0,1) 0%, rgba(82,177,82,1) 0%, rgba(82,177,82,1) 0%, rgba(0,138,0,1) 0%, rgba(82,177,82,1) 0%, rgba(82,177,82,1) 0%, rgba(131,199,131,1) 1%, rgba(0,138,0,1) 1%, rgba(0,138,0,1) 1%, rgba(0,138,0,1) 1%, rgba(0,87,0,1) 7%, rgba(0,36,0,1) 71%, rgba(0,36,0,1) 71%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(180,221,180,1)), color-stop(0%,rgba(0,138,0,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(0,138,0,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(0,138,0,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(0%,rgba(82,177,82,1)), color-stop(1%,rgba(131,199,131,1)), color-stop(1%,rgba(0,138,0,1)), color-stop(1%,rgba(0,138,0,1)), color-stop(1%,rgba(0,138,0,1)), color-stop(7%,rgba(0,87,0,1)), color-stop(71%,rgba(0,36,0,1)), color-stop(71%,rgba(0,36,0,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(180,221,180,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(131,199,131,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,87,0,1) 7%,rgba(0,36,0,1) 71%,rgba(0,36,0,1) 71%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(180,221,180,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(131,199,131,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,87,0,1) 7%,rgba(0,36,0,1) 71%,rgba(0,36,0,1) 71%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(180,221,180,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(131,199,131,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,87,0,1) 7%,rgba(0,36,0,1) 71%,rgba(0,36,0,1) 71%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(180,221,180,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(0,138,0,1) 0%,rgba(82,177,82,1) 0%,rgba(82,177,82,1) 0%,rgba(131,199,131,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,138,0,1) 1%,rgba(0,87,0,1) 7%,rgba(0,36,0,1) 71%,rgba(0,36,0,1) 71%); /* W3C */
+
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:15px;
+    height: auto;
+    width:100%;
+    height:60px;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    position: fixed;
+    bottom: 0pt;
+    left: 0pt;
+}
+
+.footerAnchor {
+    color: white;
+    font-weight: bold;
+}
+
+.surveybtn {
+    width: 150px !important;
+}
+
+.borderless td, .borderless th {
+    border: none !important;
+}
+    
+.label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1;
+    color: black; 
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: bottom;
+    border-radius: .25em;
+    float:left !important;
+}
+    
+.errorLabel {
+    float:left !important;
+}
